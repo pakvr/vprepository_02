@@ -9,5 +9,6 @@ public class App
         System.out.println(smp + ".calc = " + smp.calc());
         System.out.println("It's under control SCV Git!");
         System.out.println("Test new commit!");
+        int i = 21;
     }
 }
