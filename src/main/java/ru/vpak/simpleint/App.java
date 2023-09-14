@@ -10,5 +10,6 @@ public class App
         System.out.println("It's under control SCV Git!");
         System.out.println("Test new commit!");
         int i = 21;
+        System.out.println(("i = " + i));
     }
 }
