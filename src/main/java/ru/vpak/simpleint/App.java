@@ -7,5 +7,6 @@ public class App
         System.out.println( "Calc maximal simple integer!" );
         SimpleInt smp = new SimpleInt(10000);
         System.out.println(smp + ".calc = " + smp.calc());
+        System.out.println("It's under control SCV Git!");
     }
 }
