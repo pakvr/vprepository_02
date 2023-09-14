@@ -8,5 +8,6 @@ public class App
         SimpleInt smp = new SimpleInt(10000);
         System.out.println(smp + ".calc = " + smp.calc());
         System.out.println("It's under control SCV Git!");
+        System.out.println("Test new commit!");
     }
 }
