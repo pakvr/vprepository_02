@@ -13,6 +13,7 @@ public class App
         System.out.println(("i = " + i));
         System.out.println("New branch 'first-new-branch'");
         System.out.println("Hello i'm developer A!");
+        System.out.println("Hello i'm developer One!");
         System.out.println("Hello i'm developer Two!");
     }
 }
