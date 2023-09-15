@@ -8,11 +8,12 @@ public class App
         SimpleInt smp = new SimpleInt(10000);
         System.out.println(smp + ".calc = " + smp.calc());
         System.out.println("It's under control SCV Git!");
-        System.out.println("new branch 'developer-One-work'");
+        System.out.println("new branch 'developer-Two-work'");
         int i = 21;
         System.out.println(("i = " + i));
         System.out.println("New branch 'first-new-branch'");
         System.out.println("Hello i'm developer A!");
         System.out.println("Hello i'm developer One!");
+        System.out.println("Hello i'm developer Two!");
     }
 }
